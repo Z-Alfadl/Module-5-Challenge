@@ -15,3 +15,6 @@ This app functions as a scheduler, allowing a user to enter any tasks or reminde
     . Future time slots are highlighted in green.
 4. Saved entries persist between sessions. 
 5. A "Clear All" button is available near the top of the page to quickly remove all entries.
+``````````
+
+![](https://github.com/Z-Alfadl/Module-5-Challenge/blob/main/Assets/images/Screenshot.png)
