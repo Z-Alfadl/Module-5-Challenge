@@ -11,7 +11,7 @@ This app functions as a scheduler, allowing a user to enter any tasks or reminde
 3. The delete button removes the task from the list.
 3. Time slots are color coded based on their relation to the current time of the user.
     . Past time slots are faded grey and new entries are disabled.
-    . Current time is highlighted in green.
-    . Future time slots are highlighted
+    . Current time is highlighted in red.
+    . Future time slots are highlighted in green.
 4. Saved entries persist between sessions. 
 5. A "Clear All" button is available near the top of the page to quickly remove all entries.
